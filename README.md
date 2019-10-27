@@ -1,24 +1,7 @@
-# README
+# Rails and Svelte
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+In the spirit of exploring frontend technologies, a (very) basic Rails app with Svelte.js webpacked in.
 
-Things you may want to cover:
+Template for future experimentation.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+`rails s` -> `localhost:3000`
